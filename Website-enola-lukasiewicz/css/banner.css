@@ -1,0 +1,19 @@
+.banner {
+	background-image: url("../images/site.jpg");
+	background-size: cover;
+	background-position: center;
+
+}
+
+.rightpart{
+	background-image: url("../images/sidebanner.jpg");
+	background-size: cover;
+	height: 1800px;
+	width: 300px;
+}
+
+.leftpart{
+	background-size: cover;
+	padding: 60px 30px;
+	margin: 10px 50px;
+}

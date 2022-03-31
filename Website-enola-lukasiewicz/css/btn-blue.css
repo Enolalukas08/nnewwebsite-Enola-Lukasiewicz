@@ -1,0 +1,14 @@
+.btn-blue {
+  display:  grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px;
+}
+
+.btn {
+  background-color: #8A663F ;
+  padding: 16px;
+  border-radius: 5px;
+  margin: 16px;
+  text-align: center;
+  box-shadow: 1px 1px 10px 2px rgb(0 0 0 / 40%);
+}

@@ -1,0 +1,63 @@
+
+@import url('banner.css');
+@import url('cards.css');
+@import url('menu.css');
+@import url('buttons.css');
+  
+
+body{
+  position: cover;
+  font-family: 'comic-sans-ms', sans-serif;
+  background-color: #FFFBF5;
+}
+
+
+
+
+h1{
+  color: #8A663F;
+  font-family: 'comic-sans-ms', sans-serif;
+  text-align: center; 
+  position: cover;
+  justify-content: inherit;
+  background-size: cover;
+}
+
+h2{
+  color: black;
+  font-family: helvetica;
+  text-align: center;
+
+}
+
+
+h3, p { 
+	color: black;
+  font-family: 'comic-sans-ms', sans-serif;
+  text-align: inherit;
+}
+
+h4{
+  text-align: center;
+}
+
+
+.imgcircle {
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+
+
+
+.list-inline li {
+  display: inline;
+  font-size: 56px;
+  list-style: none;
+  padding: 0;
+}
+
+i:hover {
+color: brown;
+}
