@@ -12,8 +12,6 @@ body{
 }
 
 
-
-
 h1{
   color: #8A663F;
   font-family: 'comic-sans-ms', sans-serif;
@@ -42,6 +40,9 @@ h4{
 }
 
 
+ol{
+  text-align: justify-all;
+}
 
 .imgcircle {
   border-radius: 50%;
@@ -54,7 +55,7 @@ h4{
 
 .list-inline li {
   display: inline;
-  font-size: 56px;
+  font-size: 20px;
   list-style: none;
   padding: 0;
 }

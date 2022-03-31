@@ -1,14 +1,20 @@
-.btn-blue {
-  display:  grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 16px;
-}
+.btn-blue { 
+        background-color: #8A663F;
+        border: 1px solid #8A663F;
+        color: white;
+        padding: 16px;
+        font-weight: bold;
+        text-decoration: none;
+        border-radius: 6px;
+        transition: 1s;    
+        display: block;
+        width: 30%;
+        margin: 8px auto;
 
-.btn {
-  background-color: #8A663F ;
-  padding: 16px;
-  border-radius: 5px;
-  margin: 16px;
-  text-align: center;
-  box-shadow: 1px 1px 10px 2px rgb(0 0 0 / 40%);
+    }
+
+.btn-blue:hover { 
+        background-color: white;
+        color: #8A663F;
+        transition: 1s;
 }
