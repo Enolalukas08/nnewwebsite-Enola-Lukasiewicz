@@ -1,0 +1,31 @@
+h1{
+  color: #8A663F;
+  font-family: 'comic-sans-ms', sans-serif;
+  text-align: center; 
+  position: cover;
+  justify-content: inherit;
+  background-size: cover;
+}
+
+h2{
+  color: black;
+  font-family: helvetica;
+  text-align: center;
+
+}
+
+
+h3, p { 
+	color: black;
+  font-family: 'comic-sans-ms', sans-serif;
+  text-align: justify-all;
+}
+
+h4{
+  text-align: center;
+}
+
+
+ol{
+  text-align: justify-all;
+}

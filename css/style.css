@@ -1,8 +1,9 @@
 
 @import url('banner.css');
+@import url('texte.css');
 @import url('cards.css');
 @import url('menu.css');
-@import url('buttons.css');
+@import url('btn-blue.css');
   
 
 body{
@@ -11,37 +12,11 @@ body{
   background-color: #FFFBF5;
 }
 
-
-h1{
-  color: #8A663F;
-  font-family: 'comic-sans-ms', sans-serif;
-  text-align: center; 
+footer{
   position: cover;
-  justify-content: inherit;
-  background-size: cover;
-}
-
-h2{
-  color: black;
-  font-family: helvetica;
-  text-align: center;
-
-}
-
-
-h3, p { 
-	color: black;
   font-family: 'comic-sans-ms', sans-serif;
-  text-align: justify-all;
-}
-
-h4{
-  text-align: center;
-}
-
-
-ol{
-  text-align: justify-all;
+  color: white;
+  background-color: #CFAF8C;
 }
 
 .imgcircle {
@@ -52,14 +27,10 @@ ol{
 }
 
 
-
-.list-inline li {
-  display: inline;
-  font-size: 20px;
-  list-style: none;
-  padding: 0;
-}
-
 i:hover {
 color: brown;
+}
+
+a {
+  text-decoration: none;
 }
